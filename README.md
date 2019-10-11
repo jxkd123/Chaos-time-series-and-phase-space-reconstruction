@@ -4,3 +4,5 @@
 [时间序列模型之相空间重构模型](https://zhuanlan.zhihu.com/p/32910931)
 
 [Lorenz system](https://en.wikipedia.org/wiki/Lorenz_system)
+
+[chaotic attractor reconstruction](http://node99.org/tutorials/ar/)
