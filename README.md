@@ -20,3 +20,5 @@
 [Attractor reconstruction](http://www.scholarpedia.org/article/Attractor_reconstruction)
 
 [MATLAB phaseSpaceReconstruction](https://www.mathworks.com/help/predmaint/ref/phasespacereconstruction.html)
+
+[Calculating Lyapunov exponents from a multi-dimensional experimental time series](https://physics.stackexchange.com/questions/102529/calculating-lyapunov-exponents-from-a-multi-dimensional-experimental-time-series)
