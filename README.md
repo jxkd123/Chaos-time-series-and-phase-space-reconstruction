@@ -10,3 +10,5 @@
 [nolds](https://pypi.org/project/nolds/) the python lib for chaos time series analysis
 
 [Pynamical](https://github.com/gboeing/pynamical) is a Python package for modeling and visualizing discrete nonlinear dynamical systems, chaos, and fractals.
+
+[pypsr](https://github.com/hsharrison/pypsr)A work-in-progress library for phase-space reconstruction in Python!
