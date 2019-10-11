@@ -7,6 +7,6 @@
 
 [chaotic attractor reconstruction](http://node99.org/tutorials/ar/)
 
-[pip install nolds](https://pypi.org/project/nolds/) the python lib for chaos time series analysis
+[nolds](https://pypi.org/project/nolds/) the python lib for chaos time series analysis
 
 [Pynamical](https://github.com/gboeing/pynamical) is a Python package for modeling and visualizing discrete nonlinear dynamical systems, chaos, and fractals.
