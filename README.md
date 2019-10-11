@@ -12,3 +12,5 @@
 [Pynamical](https://github.com/gboeing/pynamical) is a Python package for modeling and visualizing discrete nonlinear dynamical systems, chaos, and fractals.
 
 [pypsr](https://github.com/hsharrison/pypsr)A work-in-progress library for phase-space reconstruction in Python!
+
+[pyunicorn](http://www.pik-potsdam.de/~donges/pyunicorn/index.html) allows to easily construct networks from uni- and multivariate time series and event data (functional (climate) networks and recurrence networks)
