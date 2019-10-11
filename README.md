@@ -16,3 +16,7 @@
 [pyunicorn](http://www.pik-potsdam.de/~donges/pyunicorn/index.html) allows to easily construct networks from uni- and multivariate time series and event data (functional (climate) networks and recurrence networks)
 
 [State Space Reconstruction from Time Series - YouTube](https://www.youtube.com/watch?v=cw9B8XuSCzQ)
+
+[Attractor reconstruction](http://www.scholarpedia.org/article/Attractor_reconstruction)
+
+[MATLAB phaseSpaceReconstruction](https://www.mathworks.com/help/predmaint/ref/phasespacereconstruction.html)
