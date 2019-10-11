@@ -14,3 +14,5 @@
 [pypsr](https://github.com/hsharrison/pypsr)A work-in-progress library for phase-space reconstruction in Python!
 
 [pyunicorn](http://www.pik-potsdam.de/~donges/pyunicorn/index.html) allows to easily construct networks from uni- and multivariate time series and event data (functional (climate) networks and recurrence networks)
+
+[State Space Reconstruction from Time Series - YouTube](https://www.youtube.com/watch?v=cw9B8XuSCzQ)
