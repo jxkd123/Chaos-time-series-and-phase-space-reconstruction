@@ -6,3 +6,5 @@
 [Lorenz system](https://en.wikipedia.org/wiki/Lorenz_system)
 
 [chaotic attractor reconstruction](http://node99.org/tutorials/ar/)
+
+[pip install nolds](https://pypi.org/project/nolds/) the python lib for chaos time series analysis
