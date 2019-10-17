@@ -30,3 +30,5 @@
 [Materials related to the Medium article "Predicting Stock Prices with Echo State Networks".](https://github.com/mrdragonbear/EchoStateNetworks)
 
 [predicting-stock-prices-with-echo-state-networks](https://towardsdatascience.com/predicting-stock-prices-with-echo-state-networks-f910809d23d4)
+
+[Echo state network implementation on tensorflow](https://github.com/m-colombo/Tensorflow-EchoStateNetwork)
