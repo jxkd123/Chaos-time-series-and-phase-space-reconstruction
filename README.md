@@ -22,3 +22,5 @@
 [MATLAB phaseSpaceReconstruction](https://www.mathworks.com/help/predmaint/ref/phasespacereconstruction.html)
 
 [Calculating Lyapunov exponents from a multi-dimensional experimental time series](https://physics.stackexchange.com/questions/102529/calculating-lyapunov-exponents-from-a-multi-dimensional-experimental-time-series)
+
+[DAPPER is a set of templates for benchmarking the performance of data assimilation (DA) methods](https://github.com/nansencenter/DAPPER)
