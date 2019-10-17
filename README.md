@@ -26,3 +26,5 @@
 [DAPPER is a set of templates for benchmarking the performance of data assimilation (DA) methods](https://github.com/nansencenter/DAPPER)
 
 [Echo State Networks in Python](https://github.com/cknd/pyESN)
+
+[Materials related to the Medium article "Predicting Stock Prices with Echo State Networks".](https://github.com/mrdragonbear/EchoStateNetworks)
