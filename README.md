@@ -32,3 +32,5 @@
 [predicting-stock-prices-with-echo-state-networks](https://towardsdatascience.com/predicting-stock-prices-with-echo-state-networks-f910809d23d4)
 
 [Echo state network implementation on tensorflow](https://github.com/m-colombo/Tensorflow-EchoStateNetwork)
+
+[Review Article Chaotic Time Series Analysis](https://www.hindawi.com/journals/mpe/2010/720190/)
