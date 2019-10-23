@@ -33,6 +33,8 @@
 
 [Echo state network implementation on tensorflow](https://github.com/m-colombo/Tensorflow-EchoStateNetwork)
 
+[EchoTorchA:Python toolkit for Reservoir Computing and Echo State Network experimentation based on pyTorch](https://github.com/nschaetti/EchoTorch)
+
 [A Python toolkit for Reservoir Computing and Echo State Network experimentation based on pyTorch](https://github.com/nschaetti/EchoTorch) EchoTorch is the only Python module available to easily create Deep Reservoir Computing models. 
 
 [Review Article Chaotic Time Series Analysis](https://www.hindawi.com/journals/mpe/2010/720190/)
