@@ -41,4 +41,4 @@
 
 [Review Article Chaotic Time Series Analysis](https://www.hindawi.com/journals/mpe/2010/720190/)
 
-[facebook/prophet](https://github.com/facebook/prophet)
+[facebook/prophet](https://github.com/irvineAlgotrading/fbprophet-price-prediction/blob/master/facebook-prophet-price-prediction.ipynb)
